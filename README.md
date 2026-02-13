@@ -76,3 +76,17 @@ This project was created to demonstrate:
 ---
 
 ## 🔧 **How It Works**
+
+
+## ⚠️ **Disclaimer** (Made by me "GolDer409")
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL PURPOSES ONLY!
+
+- The proxies included are PUBLIC proxies found on the internet
+- We do not own or operate any of these proxies
+- Use at your own risk
+- Do not use for illegal activities
+- Some websites may block proxy traffic
+- Respect websites' terms of service
+- The author is not responsible for misuse
+
+By using this software, you agree to these terms.
