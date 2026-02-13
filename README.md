@@ -77,6 +77,12 @@ This project was created to demonstrate:
 
 ## 🔧 **How It Works**
 
+1. **Your browser** connects to `127.0.0.1:1080` (local proxy)
+2. **The program** forwards traffic to a random healthy proxy
+3. **Every X seconds**, it switches to a different proxy
+4. **Your IP appears** to change locations automatically!
+
+---
 
 ## ⚠️ **Disclaimer** (Made by me "GolDer409")
 THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL PURPOSES ONLY!
@@ -90,3 +96,23 @@ THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL PURPOSES ONLY!
 - The author is not responsible for misuse
 
 By using this software, you agree to these terms.
+
+
+## 📦 **Installation**
+
+### **On Android (Termux)**
+```bash
+# Update packages
+pkg update && pkg upgrade
+
+# Install Go
+pkg install golang
+
+# Clone or create the file
+mkdir ~/proxy-rotator
+cd ~/proxy-rotator
+nano proxy-rotator.go
+# (Copy and paste the code)
+
+# Run it!
+go run proxy-rotator.go
