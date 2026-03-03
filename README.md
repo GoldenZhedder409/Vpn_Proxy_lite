@@ -1,7 +1,7 @@
 # 🔥 Vpn_Proxy_lite 🔥
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-1.20+-00ADD8?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Go-1.26.0-00ADD8?style=for-the-badge&logo=go" />
   <img src="https://img.shields.io/badge/Platform-Android%20|%20Linux%20|%20macOS-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
